@@ -21,3 +21,9 @@ branding her stories of time travel as nothing more than science fiction. Instea
 trying to save the planet, Betty was condemned. 
 She was locked away in a mental institution, forced to live out her days tormented by the knowledge of the 
 inevitable future she could not prevent.
+<<<<<<< HEAD
+=======
+
+To her surprise, a loud ringing jolted her awake—her alarm clock.
+ It turned out the entire situation had been just a dream. The sound had pulled her back to reality, breaking the illusion.
+>>>>>>> 4362fcb0d0e5b4d52aec9b2a5e70bcbc5b09df01
